@@ -1,6 +1,5 @@
 # DistanciasSeguras_STM32
 Este proyecto fue montado en una tarjeta STM32 NUCLEO-F401RE. 
-Este proyecto fue montado en una tarjeta STM32 NUCLEO-F401RE.
 
 El entorno de programación utilizado fue Arduino IDE. Para que el entorno de Arduino pueda reconocer la tarjeta se deben seguir los siguientes pasos.
 
